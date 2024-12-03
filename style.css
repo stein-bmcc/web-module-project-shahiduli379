@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+html{
+    font-size: 100%;
+}
+
+body{
+    background-color: rgb(88, 65, 22);
+    max-width: 100ch;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 6rem;
+    text-align: center;
+    font-family: "Mystery Quest", system-ui;
+    color: aliceblue;
+}
+
+h2{
+    font-size: 3rem;
+    color: rgb(224, 65, 216);
+    text-align: center;
+    background-color: rgb(101, 253, 253);
+    padding: 10px;
+    width: auto;
+    font-family: "Mystery Quest", system-ui;   
+}
+
+ul{
+    font-size: 3rem;
+    text-align: center;
+    background-color: rgb();
+    padding: 10px;
+    width: auto;
+    font-family: "Mystery Quest", system-ui;
+}
+
+ul a{
+    text-align: center;
+    color: rgb(224, 65, 216);
+    background-color: rgb(101, 253, 253);
+    padding: 10px;
+}
+
+p{
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+ol{
+    color: aliceblue;
+    text-align: center;
+    list-style: square;
+    list-style-position: inside;
+    font-size: 21px;
+}
+
+footer{
+    color: aliceblue;
+}
+
+img, video{
+	max-width: 50%;
+	height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: aliceblue;
+    padding: auto;
+    width: auto;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 15px;
+}
+
+img{
+    
+}
